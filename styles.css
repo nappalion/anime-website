@@ -78,6 +78,14 @@ button {
     align-items: center;
 }
 
+.main-header img {
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid #E5E7EB;
+}
+
 .sec-two img {
     object-fit: cover;
     height: 200px;
