@@ -143,5 +143,20 @@ button {
     color: #f9faf8;
 }
 
+.other {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.other .sec-four {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.other .text-four {
+    width: 500px;
+}
+
 
 
