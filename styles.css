@@ -74,6 +74,8 @@ button {
 .sec-two img {
     object-fit: cover;
     height: 200px;
+    border-radius: 8px;
+    border: 5px solid #3882f6;
     width: 200px;
 }
 
@@ -86,4 +88,45 @@ button {
     font-weight: bold;
     color: #1f2937;
 }
+
+.sec-three {
+    background: #E5E7EB;
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.sec-three p {
+   font-weight: bold; 
+
+}
+
+.sec-four {
+    background-color: #f9faf8;
+    padding: 30px;
+}
+
+.text-four {
+    color: #f9faf8;
+}
+
+.box {
+    background-color: #3882f6;
+    border-radius: 10px;
+    padding: 30px 60px 30px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec-four button {
+    border: 2px solid #f9faf8;
+}
+
+
 
